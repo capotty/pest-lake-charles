@@ -32,44 +32,28 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/moss-bluff/</loc>
+		<lastmod>2025-02-28T18:49:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/deridder/</loc>
-		<lastmod>2025-02-28T18:09:15+00:00</lastmod>
+		<lastmod>2025-02-28T18:49:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sulphur/</loc>
-		<lastmod>2025-02-28T18:09:15+00:00</lastmod>
+		<lastmod>2025-02-28T18:49:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/westlake/</loc>
-		<lastmod>2025-02-28T18:09:15+00:00</lastmod>
+		<lastmod>2025-02-28T18:49:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/jennings/</loc>
-		<lastmod>2025-02-28T18:09:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/moss-bluff/</loc>
-		<lastmod>2025-02-28T18:09:15+00:00</lastmod>
+		<lastmod>2025-02-28T18:49:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ant-control/</loc>
 		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/residential/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/commercial/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/termite-treatment/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/rodent-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/spider-removal/</loc>
@@ -113,6 +97,22 @@
 	</url>
 	<url>
 		<loc>/wildlife-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/residential/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/commercial/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/termite-treatment/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/rodent-control/</loc>
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
